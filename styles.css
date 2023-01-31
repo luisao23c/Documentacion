@@ -2,3 +2,16 @@ img{
     width: 150px;
     height: 150px;
 }
+input[type=file]{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3px;
+  content: 'Seleccionar'; /* testo por defecto */
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 37%;
+  }
